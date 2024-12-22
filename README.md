@@ -1,9 +1,9 @@
-NCTU_DCS
+NYCU_DCS
 ===
 這門課是交大電子所張添烜教授開的數位電路與系統
 
-整學期共有 
-- 1 Project 
+整學期共有
+- 1 Project
 - 5 HWs
 - 9 Labs
 - 1 Online Test
@@ -14,7 +14,7 @@ NCTU_DCS
 
 我個人產生測資是使用 C++，再用 pattern.v 去讀取 txt 檔
 
-因為課程規劃的關係，前期助教都會提供 pattern，所以有些 HW 或 Lab 沒有測資，只有 design
+因為課程規劃的關係，前期不需要自己寫 pattern，所以有些 HW 或 Lab 我只有寫 design，沒有寫 pattern
 
 &emsp;
 
@@ -24,7 +24,7 @@ Project
 
 &emsp;
 
-HWs
+HW
 ===
 - HW01: Calculate Numbers 
 - HW02: Visa Check Digit
@@ -34,7 +34,7 @@ HWs
 
 &emsp;
 
-Labs
+Lab
 ===
 - Lab01: Combinational
 - Lab02: Timer
